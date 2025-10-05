@@ -6,6 +6,3 @@
 5. `npm run dev`
 6. Abre `http://localhost:3000/api/docs`
 
-### Admin por defecto
-- Correo: `admin@tiendaropa.com`
-- Clave: `AdminRopa2025*`
