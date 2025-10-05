@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+# Environment variables
+.env
+# Database SQLite files (si usas local)
+*.sqlite
+# Logs
+*.log
+# Sistema
+.DS_Store
